@@ -3,7 +3,8 @@ import Router from 'vue-router'
 import Home from '../components/Home'
 import About from '../components/About'
 import Contact from '../components/Contact'
-import Products from '../components/Products'
+import Photos from '../components/Photos'
+import Testimonials from '../components/Testimonials'
 
 Vue.use(Router);
 
@@ -25,9 +26,14 @@ export default new Router({
       component: Contact
     },
     {
-      path: '/products/',
-      name: 'Products',
-      component: Products
+      path: '/photos/',
+      name: 'Photos',
+      component: Photos
+    },
+    {
+      path: '/testimonials/',
+      name: 'Testimonials',
+      component: Testimonials
     }
   ]
 })

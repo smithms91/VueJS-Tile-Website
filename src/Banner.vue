@@ -21,9 +21,6 @@ export default {
     overflow: hidden;
   }
 
-  #banner img {
-  }
-
   #banner h1 {
     position: absolute;
     top: 50%;

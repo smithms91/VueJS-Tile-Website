@@ -17,6 +17,8 @@
         <ul>
           <router-link to="/">Home</router-link>
           <router-link to="/about">About</router-link>
+          <router-link to="/photos">Photos</router-link>
+          <router-link to="/testimonials">Testimonials</router-link>
           <router-link to="/contact">Contact</router-link>
         </ul>
       </div>
@@ -32,7 +34,6 @@ export default {
       let navwich = document.querySelector('.navbar-burger');
       let navmenu = document.querySelector('.navbar-menu');
       let yes = document.querySelector('.is-active');
-      console.log(yes);
       if (yes) {
         navwich.classList.remove("is-active");
         navmenu.classList.remove("is-active");

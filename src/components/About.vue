@@ -10,7 +10,7 @@
     <div class="about-content">
       <p>Delacy's Designs first started back in Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt alias quo praesentium dolorem, quaerat voluptas ratione ab consequuntur soluta, esse repudiandae numquam delectus magni minima officia dicta laboriosam veniam suscipit?Perferendis modi ducimus incidunt, ad necessitatibus delectus corporis cumque provident? Magni earum repudiandae voluptatibus harum quos veritatis numquam dolores incidunt pariatur ea corporis, amet ab est nam et explicabo error!</p>
       <div class="see-our-work">
-        <router-link to="/products">View our past work!</router-link>
+        <router-link to="/photos">View our past work!</router-link>
       </div>
     </div>
     <app-footer></app-footer>
