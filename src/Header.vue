@@ -1,10 +1,10 @@
 <template>
   <nav class="navbar">
     <div class="navbar-brand">
-      <div class="logo">
+      <router-link to="/" class="logo">
         <h1>Delacy's Designs</h1>
         <p>Design &amp; Install</p>
-      </div>
+      </router-link>
       <div class="navbar-burger burger" @click="openNav()">
         <span></span>
         <span></span>
