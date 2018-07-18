@@ -31,13 +31,13 @@
       </div>
 
       <div class="single-testimonial">
-        <img class="face" src="../assets/pic1.png" alt="">
+        <img class="face" src="../assets/pic2.png" alt="">
         <p class="message">"Tile Installation is exactly what our business has been lacking. The best on the net! I like Tile Installation more and more each day because it makes my life a lot easier. I'm good to go. "</p>
         <p class="name">&mdash; Marnie W.</p>
       </div>
 
       <div class="single-testimonial">
-        <img class="face" src="../assets/pic1.png" alt="">
+        <img class="face" src="../assets/pic3.png" alt="">
         <p class="message">"Tile Installation is exactly what our business has been lacking. The best on the net! I like Tile Installation more and more each day because it makes my life a lot easier. I'm good to go. "</p>
         <p class="name">&mdash; Marnie W.</p>
       </div>
